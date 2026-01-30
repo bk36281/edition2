@@ -1,10 +1,10 @@
 <template>
   <section class="about">
-    <h1>À propos de moi</h1>
+    <h1>À propos de l'éditeur</h1>
 
     <p>
-      Étudiant en informatique, intéressé par le développement web
-      et les architectures full stack.
+      Éditeur indépendant, passionné par la littérature et les projets
+      numériques. Retrouvez mon parcours et mes compétences dans mon CV.
     </p>
 
     <div class="cv">
